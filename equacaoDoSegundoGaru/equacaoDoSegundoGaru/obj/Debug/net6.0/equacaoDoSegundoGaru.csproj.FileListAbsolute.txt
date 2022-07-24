@@ -1,0 +1,15 @@
+C:\Users\barro\workspace\equacao\equacaoDoSegundoGaru\equacaoDoSegundoGaru\bin\Debug\net6.0\equacaoDoSegundoGaru.exe
+C:\Users\barro\workspace\equacao\equacaoDoSegundoGaru\equacaoDoSegundoGaru\bin\Debug\net6.0\equacaoDoSegundoGaru.deps.json
+C:\Users\barro\workspace\equacao\equacaoDoSegundoGaru\equacaoDoSegundoGaru\bin\Debug\net6.0\equacaoDoSegundoGaru.runtimeconfig.json
+C:\Users\barro\workspace\equacao\equacaoDoSegundoGaru\equacaoDoSegundoGaru\bin\Debug\net6.0\equacaoDoSegundoGaru.dll
+C:\Users\barro\workspace\equacao\equacaoDoSegundoGaru\equacaoDoSegundoGaru\bin\Debug\net6.0\equacaoDoSegundoGaru.pdb
+C:\Users\barro\workspace\equacao\equacaoDoSegundoGaru\equacaoDoSegundoGaru\obj\Debug\net6.0\equacaoDoSegundoGaru.csproj.AssemblyReference.cache
+C:\Users\barro\workspace\equacao\equacaoDoSegundoGaru\equacaoDoSegundoGaru\obj\Debug\net6.0\equacaoDoSegundoGaru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barro\workspace\equacao\equacaoDoSegundoGaru\equacaoDoSegundoGaru\obj\Debug\net6.0\equacaoDoSegundoGaru.AssemblyInfoInputs.cache
+C:\Users\barro\workspace\equacao\equacaoDoSegundoGaru\equacaoDoSegundoGaru\obj\Debug\net6.0\equacaoDoSegundoGaru.AssemblyInfo.cs
+C:\Users\barro\workspace\equacao\equacaoDoSegundoGaru\equacaoDoSegundoGaru\obj\Debug\net6.0\equacaoDoSegundoGaru.csproj.CoreCompileInputs.cache
+C:\Users\barro\workspace\equacao\equacaoDoSegundoGaru\equacaoDoSegundoGaru\obj\Debug\net6.0\equacaoDoSegundoGaru.dll
+C:\Users\barro\workspace\equacao\equacaoDoSegundoGaru\equacaoDoSegundoGaru\obj\Debug\net6.0\refint\equacaoDoSegundoGaru.dll
+C:\Users\barro\workspace\equacao\equacaoDoSegundoGaru\equacaoDoSegundoGaru\obj\Debug\net6.0\equacaoDoSegundoGaru.pdb
+C:\Users\barro\workspace\equacao\equacaoDoSegundoGaru\equacaoDoSegundoGaru\obj\Debug\net6.0\equacaoDoSegundoGaru.genruntimeconfig.cache
+C:\Users\barro\workspace\equacao\equacaoDoSegundoGaru\equacaoDoSegundoGaru\obj\Debug\net6.0\ref\equacaoDoSegundoGaru.dll
